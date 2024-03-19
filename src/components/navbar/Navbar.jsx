@@ -20,7 +20,7 @@ const Navbar = () => {
     <div className="navbar">
       <div className="left">
         <Link to="/" style={{ textDecoration: "none" }}>
-          <span>ue-social</span>
+          <span>uesocial</span>
         </Link>
         <HomeOutlinedIcon />
         {darkMode ? (
